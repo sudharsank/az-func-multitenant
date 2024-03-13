@@ -1,3 +1,1 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
-<configuration>
-</configuration>
+# You can find more information at [Knowledge Share](https://spknowledge.com)
